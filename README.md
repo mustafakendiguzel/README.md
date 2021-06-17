@@ -3,10 +3,9 @@
 
 ## I'm a Student Developer
 
-- 
 - 🌱 I’m currently learning Javascript
 - 🛬 I'm working on image processing in UAV competition
-- 
+
 - ⚡ I love play guitar and singing
 
 ### Spotify Playing 🎧
@@ -16,7 +15,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://download.logo.wine/logo/Instagram/Instagram-Logo.wine.png" />][instagram]
 
 <br />
 
