@@ -1,11 +1,11 @@
 ### Hi, I'm Mustafa 👋
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafakendiguzel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## I'm a Student Developer
 
 - 🌱 I’m currently learning Javascript
 - 🛬 I'm working on image processing in UAV competition
-
 - ⚡ I love play guitar and singing
 
 ### Spotify Playing 🎧
