@@ -9,9 +9,11 @@
 
 ## I'm a Student Developer
 
-- 🌱 I’m currently learning Javascript
-- 🛬 I'm working on image processing in UAV competition
-- ⚡ I love play guitar and singing
+- 🌱 I’m currently learning Javascript and Database sistems
+- 🛬 I worked on image processing in UAV(unmanned aerial vehicle) competition.
+- 🛬 I'm working on deep learning and machine learning in UGV(unmanned ground vehicle
+) competition.
+- ⚡ I love play guitar and singing.
 
 ### Spotify Playing 🎧
 
