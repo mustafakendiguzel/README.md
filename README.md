@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Javascript and Database sistems
 - 🛬 I worked on image processing in UAV(unmanned aerial vehicle) competition.
-- 🛬 I'm working on deep learning and machine learning in UGV(unmanned ground vehicle
+- 🔧 I'm working on deep learning and machine learning in UGV(unmanned ground vehicle
 ) competition.
 - ⚡ I love play guitar and singing.
 
