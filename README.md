@@ -14,7 +14,7 @@
 - 🔧 I'm working on deep learning and machine learning in UGV(unmanned ground vehicle
 ) competition.
 - ⚛️ I'am learning React and Redux
--  ₿ I 'am learning on Blockchain Technology,smart contracts and WEB 3.0
+-  ₿ I 'am learning Blockchain Technology,smart contracts and WEB 3.0
 - ⚡ I love play guitar and singing.
 
 ### Spotify Playing 🎧
