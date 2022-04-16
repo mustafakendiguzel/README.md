@@ -9,10 +9,12 @@
 
 ## I'm a Student Developer
 
-- 🌱 I’m currently learning Javascript and Database sistems
+- 🌱 I’m currently learning Javascript and Database sistems.
 - 🛬 I worked on image processing in UAV(unmanned aerial vehicle) competition.
 - 🔧 I'm working on deep learning and machine learning in UGV(unmanned ground vehicle
 ) competition.
+- ⚛️ I'am learning React and Redux
+-  ₿ I 'am learning on Blockchain Technology,smart contracts and WEB 3.0
 - ⚡ I love play guitar and singing.
 
 ### Spotify Playing 🎧
