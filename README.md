@@ -1,6 +1,6 @@
 ### Hi, I'm Mustafa 👋
-<p align="center" width="100px">
-  <img width="100px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
+<p align="center" width="100px" height="100px">
+  <img width="100px"  height="100px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
 
