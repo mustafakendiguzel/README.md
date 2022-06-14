@@ -8,6 +8,9 @@
  <a href="https://github.com/mustafakendiguzel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakendiguzel&theme=midnight-purple&hide_langs_below=1" />
 </a>
+<a href="https://github.com/mustafakendiguzel">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakendiguzel&show_icons=true&theme=midnight-purple&line_height=27" alt="Mustafa's github stats"/>
+</a>
 
 
 ## I'm a Student Developer
@@ -21,10 +24,11 @@
 - ⚡ I love play guitar and singing.
 
 ### Connect with me:
-
-<a href="https://www.linkedin.com/in/mustafa-kendigüzel-3908b91b8/" target="_blank">
+<p align="center">
+ <a href="https://www.linkedin.com/in/mustafa-kendigüzel-3908b91b8/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
  </a>
+</p>
 
 ### Languages and Tools:
 
