@@ -8,7 +8,7 @@
 <a href="https://github.com/mustafakendiguzel">
  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=mustafakendiguzel&show_icons=true&theme=midnight-purple&line_height=27" alt="Mustafa's github stats"/>
 </a>
-<p align="right" width="200px" height="200px" align ="center">
+<p align="center" align ="center">
   <img align ="center" width="100px"  height="100px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
