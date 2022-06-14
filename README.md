@@ -9,7 +9,7 @@
  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=mustafakendiguzel&show_icons=true&theme=midnight-purple&line_height=27" alt="Mustafa's github stats"/>
 </a>
 <p align="right" width="200px" height="200px">
-  <img width="200px"  height="200px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img align ="center" width="200px"  height="200px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
 
