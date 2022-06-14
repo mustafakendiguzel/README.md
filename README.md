@@ -1,5 +1,5 @@
 ### Hi, I'm Mustafa 👋
-<p align="center" width="200px" height="200px">
+<p align="right" width="200px" height="200px">
   <img width="200px"  height="200px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
