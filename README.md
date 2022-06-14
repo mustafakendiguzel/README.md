@@ -1,7 +1,4 @@
 ### Hi, I'm Mustafa 👋
-<p align="right" width="200px" height="200px">
-  <img width="200px"  height="200px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
 
 
 
@@ -22,6 +19,9 @@
 - ⚛️ I'am learning React and Redux
 -  ₿ I 'am learning Blockchain Technology,smart contracts and WEB 3.0
 - ⚡ I love play guitar and singing.
+<p align="right" width="200px" height="200px">
+  <img width="200px"  height="200px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
 
 ### Connect with me:
 <p align="left">
