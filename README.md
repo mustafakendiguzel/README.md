@@ -7,6 +7,9 @@
 </a>
 <a href="https://github.com/mustafakendiguzel">
  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=mustafakendiguzel&show_icons=true&theme=midnight-purple&line_height=27" alt="Mustafa's github stats"/>
+ <p align="right" width="200px" height="200px">
+  <img width="200px"  height="200px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
 </a>
 
 
@@ -16,9 +19,6 @@
 - 🛬 I worked on image processing in UAV(unmanned aerial vehicle) competition.
 - 🔧 I'm working on deep learning and machine learning in UGV(unmanned ground vehicle
 ) competition.
-<p align="right" width="200px" height="200px">
-  <img width="200px"  height="200px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
 - ⚛️ I'am learning React and Redux
 -  ₿ I 'am learning Blockchain Technology,smart contracts and WEB 3.0
 - ⚡ I love play guitar and singing.
