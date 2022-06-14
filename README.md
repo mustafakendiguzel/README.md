@@ -1,5 +1,5 @@
 ### Hi, I'm Mustafa 👋
-<p >
+<p align ="center">
   <img align"center" width="300px"  height="300px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakendiguzel&theme=midnight-purple&hide_langs_below=1" />
 </a>
 
-</a>
+
 
 
 
