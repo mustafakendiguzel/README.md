@@ -7,10 +7,10 @@
 </a>
 <a href="https://github.com/mustafakendiguzel">
  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=mustafakendiguzel&show_icons=true&theme=midnight-purple&line_height=27" alt="Mustafa's github stats"/>
- <p align="right" width="200px" height="200px">
+</a>
+<p align="right" width="200px" height="200px">
   <img width="200px"  height="200px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
-</a>
 
 
 ## I'm a Student Developer
