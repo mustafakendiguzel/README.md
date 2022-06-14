@@ -1,4 +1,7 @@
 ### Hi, I'm Mustafa 👋
+<p align="center">
+  <img   src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
 
 
 
@@ -25,9 +28,6 @@
  <a href="https://www.linkedin.com/in/mustafa-kendigüzel-3908b91b8/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
  </a>
-</p>
-<p align="right">
-  <img  width ="300px" src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
 
