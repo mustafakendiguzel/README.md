@@ -46,9 +46,6 @@
 
 
 
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.1.0/icons/puppeteer.svg" />
-
-
 
 
 
