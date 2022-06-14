@@ -1,6 +1,6 @@
 ### Hi, I'm Mustafa 👋
 <p align="center">
-  <img   src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img width="300px"  src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
 
@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakendiguzel&theme=midnight-purple&hide_langs_below=1" />
 </a>
 <a href="https://github.com/mustafakendiguzel">
- <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api?username=mustafakendiguzel&show_icons=true&theme=midnight-purple&line_height=27" alt="Mustafa's github stats"/>
+ <img align="center"  src="https://github-readme-stats.vercel.app/api?username=mustafakendiguzel&show_icons=true&theme=midnight-purple&line_height=27" alt="Mustafa's github stats"/>
 </a>
 
 
