@@ -14,7 +14,7 @@
 
 ## I'm a Full Stack Developer
 
-- 🌱 I’m currently learning Javascript and Database sistems.
+- 🌱 I’m currently working Typescript and Database sistems.
 - 🛬 I worked on image processing in UAV(unmanned aerial vehicle) competition.
 - 🔧 I'm working on deep learning and machine learning in UGV(unmanned ground vehicle
 ) competition.
