@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently working Typescript and Database sistems.
 - 🛬 I worked on image processing in UAV(unmanned aerial vehicle) competition.
-- 🔧 I'm working on deep learning and machine learning in UGV(unmanned ground vehicle
+- 🔧 I'm worked on deep learning and machine learning in UGV(unmanned ground vehicle
 ) competition.
 - ⚛️ I'am learning React and Redux
 -  ₿ I 'am learning Blockchain Technology,smart contracts and WEB 3.0
