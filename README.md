@@ -19,6 +19,7 @@
 - 🔧 I'm worked on deep learning and machine learning in UGV(unmanned ground vehicle
 ) competition.
 - ⚛️ I'am learning React and Redux
+- ⚛️ I'am working on VueJs
 -  ₿ I 'am learning Blockchain Technology,smart contracts and WEB 3.0
 
 
